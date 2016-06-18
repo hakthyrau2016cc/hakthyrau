@@ -1,0 +1,2 @@
+# hakthyrau
+OCR
